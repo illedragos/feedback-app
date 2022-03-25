@@ -17,7 +17,7 @@ function App() {
   return (
     <>
       <Header />
-      <div class="container">
+      <div className="container">
         <h1>Dragos App</h1>
         <p>awsome</p>
       </div>
