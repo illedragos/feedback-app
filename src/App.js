@@ -1,5 +1,6 @@
 import React from "react";
 import Header from "./components/Header";
+import FeedbackItem from "./components/FeedbackItem";
 
 //   You could write elements like this, but is not used
 //   ---------------------------------------------------
@@ -18,7 +19,7 @@ function App() {
     <>
       <Header />
       <div className="container">
-        <h1>Dragos App</h1>
+        <FeedbackItem />
         <p>awsome</p>
       </div>
     </>
